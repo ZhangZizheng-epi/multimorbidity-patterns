@@ -9,9 +9,9 @@ Authors: Zizheng Zhang(1,2), Ping He(3), Huayan Yao(5), Renjie Jing(1,2), Wen Su
 4-Wonders Information Co. Ltd., Shanghai, China  
 5-Computer Net Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China  
 # Contact
-Lead - Bin Cui - cb11302 'at' rjh 'dot' com 'dot' cn  
+Lead - Bin Cui - cb11302@rjh.com.cn 
 
-GitHub - Zizheng Zhang - zhangzz95 'at' sjtu 'dot' edu 'dot' cn
+GitHub - Zizheng Zhang - zhangzz95@sjtu.edu.cn 
 # Summary
 Patients with type 2 diabetes mellitus (T2DM) are at a heightened risk of living with multiple comorbidities. However, the comprehension of the multimorbidity characteristics of T2DM is still scarce. This study aims to illuminate T2DM's prevalent comorbidities and their interrelationships using network analysis. Using electronic medical records (EMRs) from 496,408 Chinese T2DM patients, we constructed male and female global multimorbidity networks and age- and sex-specific networks. Employing diverse network metrics, we assessed the structural properties of these networks. Furthermore, we identified hub, root, and burst diseases within these networks while scrutinizing their temporal trends. Our findings uncover interconnected T2DM comorbidities manifesting as emergence in clusters or age-specific outbreaks and core diseases in each sex that necessitate timely detection and intervention. This data-driven methodology offers a comprehensive comprehension of T2DM's multimorbidity, providing hypotheses for clinical considerations in the prevention and therapeutic strategies.
 # Data
